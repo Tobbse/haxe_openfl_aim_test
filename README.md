@@ -6,3 +6,6 @@ I've been working with Haxe for a few months but never set up a small project my
 
 It's as basic as it gets: Click some circles, see how fast you are.
 https://tobbse.github.io/haxe_openfl_aim_test/
+
+Install: `npm install`
+Build: `npm run-script build`
